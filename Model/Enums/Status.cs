@@ -6,5 +6,7 @@ namespace Solution.Model.Enums
 		None = 0,
 		Active = 1,
 		Inactive = 2,
+		Blocked = 3,
+		ByPass = 4
 	}
 }
